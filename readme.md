@@ -2,6 +2,7 @@
 
 ## 2022 06 28 15주차
 
+.
 1.npm install uuid
 
 2.Home.js import 추가
